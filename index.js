@@ -31,6 +31,10 @@ app.use((req, res, next) => {
 // error handler
 app.use(errorMiddleware);
 
-app.listen(PORT, () => {
-  console.log(`Server listening on http://localhost:${PORT}`);
-});
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`)
+  })
+  }
+
+export default app;
