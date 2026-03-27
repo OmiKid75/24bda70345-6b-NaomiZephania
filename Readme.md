@@ -121,3 +121,10 @@ Success (200):
     "updatedAt": "..."
   }
 }
+
+SCREENSHOTS
+<img width="486" height="289" alt="image" src="https://github.com/user-attachments/assets/b49374ae-0dbe-4c03-8158-364ebc1c0659" />
+<img width="562" height="249" alt="image" src="https://github.com/user-attachments/assets/65fd1fc5-435c-4936-919c-379a574f5bd2" />
+<img width="636" height="195" alt="image" src="https://github.com/user-attachments/assets/eb950a28-e577-4e65-9c45-d1cb6d9331d8" />
+
+
